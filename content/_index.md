@@ -5,11 +5,12 @@ title = "Frederick County Virtual Charter School"
 {{< block "grid-2" >}}
 {{< column >}}
 
-# Welcome to FCVCS home page, this page is currently under construction
+# Welcome to FCVCS home page
+This page is currently under construction
 
 {{< /column >}}
 
 {{< column >}}
-![diy](/images/rvp-logo.jpg)
+![diy](/images/school-construction.jpg)
 {{< /column >}}
 {{< /block >}}
