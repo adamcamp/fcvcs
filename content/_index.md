@@ -10,6 +10,6 @@ title = "FCVCS Home Page"
 {{< /column >}}
 {{< column >}}
 {{< button "docs/" "Why Virtual Schooling?" >}}
-{{< button "posts/" "Latest Updates" >}}
+{{< button "blog/" "Latest Updates" >}}
 {{< /column >}}
 {{< /block >}}
