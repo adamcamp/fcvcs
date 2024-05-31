@@ -1,7 +1,7 @@
 #  menu items
 
 [[main]]
-  name = "Docs"
+  name = "Why Virtual?"
   weight = 2
   url = "docs/"
 
