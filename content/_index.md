@@ -9,8 +9,4 @@ title = "FCVCS Home Page"
 This page is currently under construction
 
 {{< /column >}}
-
-{{< column >}}
-![diy](/images/rvp-logo.jpg)
-{{< /column >}}
 {{< /block >}}
