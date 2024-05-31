@@ -1,3 +1,0 @@
-## FCVCS
-
-Homepage for FCVCS
