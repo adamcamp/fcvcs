@@ -4,12 +4,9 @@ title = "FCVCS Home Page"
 
 {{< block "grid-2" >}}
 {{< column >}}
-
-# Frederick County Virtual Charter School
-
+{{< button "docs/" "Why Virtual Schooling?" >}}
 {{< /column >}}
 {{< column >}}
-{{< button "docs/" "Why Virtual Schooling?" >}}
 {{< button "blog/" "Latest Updates" >}}
 {{< /column >}}
 {{< /block >}}
