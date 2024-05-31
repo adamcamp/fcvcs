@@ -1,4 +1,4 @@
-baseURL = "https://www.fcvcs.org"
+baseURL = "https://fcvcs.org"
 title = "Frederick County Virtual Charter School"
 enableRobotsTXT = true
 # this example loads the theme as hugo module
