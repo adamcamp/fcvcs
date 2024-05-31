@@ -5,7 +5,7 @@ title = "FCVCS Home Page"
 {{< block "grid-2" >}}
 {{< column >}}
 
-# Welcome to the Frederick County Virtual Charter School
+# Frederick County Virtual Charter School
 This page is currently under construction
 
 {{< /column >}}
