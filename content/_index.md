@@ -1,11 +1,11 @@
 +++
-title = "Frederick County Virtual Charter School"
+title = "FCVCS Home Page"
 +++
 
 {{< block "grid-2" >}}
 {{< column >}}
 
-# Welcome to FCVCS home page
+# Welcome to the Frederick Country Virtual Charter School home page
 This page is currently under construction
 
 {{< /column >}}
