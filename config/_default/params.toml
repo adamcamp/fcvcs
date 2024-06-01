@@ -40,7 +40,7 @@ key = "da87401a458102ec6bbd6cc5e5cf8d95" # Search-Only API Key
 # Site logo
 [logo]
   lightMode = "images/fcvcs.png"
-  darkMode = "images/fcvcs.png"
+  darkMode = "images/fcvcs-dark.png"
 
 [source]
   name = "GitHub"
