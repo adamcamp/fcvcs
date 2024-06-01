@@ -12,10 +12,11 @@ The first and only 100% virtual Grade 3-8 School in Frederick County
 >
 > Rabindranath Tagore (1861-1941)
 
-{{< /column >}}
-{{< column >}}
 {{< button "docs/" "Why Virtual Schooling?" >}}
 {{< button "blog/" "Latest Updates" >}}
-{{< button "mailto:contactus@fcvcs.org" "Contact Us to join our email list" >}}
+
+{{< /column >}}
+{{< column >}}
+<iframe src="https://cdn.forms-content-1.sg-form.com/5d7711f8-1fff-11ef-86cd-c6cb78407036"/>
 {{< /column >}}
 {{< /block >}}
