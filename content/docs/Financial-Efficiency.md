@@ -31,8 +31,8 @@ $90,000 x 13 - Teachers
 
 \= $1.32 million
 
-What about special needs?
+### What about special needs?
 
-The beauty of the Per-Pupil Foundation Amount is that it doesn't have to cover special needs because any special needs education amounts would be "layered" on top of the foundation amount. 
+The beauty of the Per-Pupil Foundation Amount is that it doesn't have to cover special needs because any special needs education amounts would be "layered" on top of the foundation amount.
 
 ![](/images/Student-A-desktop-scaled-e1667353449242.jpg)
