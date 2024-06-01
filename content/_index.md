@@ -17,6 +17,6 @@ The first and only 100% virtual Grade 3-8 School in Frederick County
 
 {{< /column >}}
 {{< column >}}
-<iframe src="https://cdn.forms-content-1.sg-form.com/5d7711f8-1fff-11ef-86cd-c6cb78407036"/>
+{{< button "https://cdn.forms-content-1.sg-form.com/5d7711f8-1fff-11ef-86cd-c6cb78407036" "Sign Up for our Email List">}}
 {{< /column >}}
 {{< /block >}}
